@@ -1,0 +1,6575 @@
+[
+    {
+        "idx": "C119AS318004",
+        "link_id_list": [
+            "A219AS319555",
+            "A219AS319556",
+            "A219AS319557"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            422.322,
+            7.881,
+            6.551
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318005",
+        "link_id_list": [
+            "A219AS319555",
+            "A219AS319556",
+            "A219AS319557"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            424.964,
+            5.584,
+            6.551
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318008",
+        "link_id_list": [
+            "A219AS319543",
+            "A219AS319544",
+            "A219AS319545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            685.655,
+            -143.395,
+            6.227
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318009",
+        "link_id_list": [
+            "A219AS319543",
+            "A219AS319544",
+            "A219AS319545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            683.8,
+            -146.363,
+            6.227
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318012",
+        "link_id_list": [
+            "A219AS319549",
+            "A219AS319550",
+            "A219AS319551"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            447.814,
+            15.529,
+            6.406
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -32.0
+    },
+    {
+        "idx": "C119AS318013",
+        "link_id_list": [
+            "A219AS319549",
+            "A219AS319550",
+            "A219AS319551"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            449.668,
+            18.497,
+            6.406
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -32.0
+    },
+    {
+        "idx": "C119AS318018",
+        "link_id_list": [
+            "A219AS319558",
+            "A219AS319559",
+            "A219AS319560",
+            "A219AS319181"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            173.06,
+            184.67,
+            10.508
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -32.0
+    },
+    {
+        "idx": "C119AS318019",
+        "link_id_list": [
+            "A219AS319566",
+            "A219AS319565",
+            "A219AS319564",
+            "A219AS319563",
+            "A219AS319562",
+            "A219AS319561"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            175.334,
+            173.874,
+            10.508
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 41.0
+    },
+    {
+        "idx": "C119AS318020",
+        "link_id_list": [
+            "A219AS319566",
+            "A219AS319565",
+            "A219AS319564",
+            "A219AS319563",
+            "A219AS319562",
+            "A219AS319561"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            173.038,
+            176.516,
+            10.508
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 41.0
+    },
+    {
+        "idx": "C119AS318024",
+        "link_id_list": [
+            "A219AS319582",
+            "A219AS319581",
+            "A219AS319580",
+            "A219AS319579"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -27.658,
+            -1.392,
+            5.774
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -37.0
+    },
+    {
+        "idx": "C119AS318025",
+        "link_id_list": [
+            "A219AS319582",
+            "A219AS319581",
+            "A219AS319580",
+            "A219AS319579"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -25.552,
+            1.403,
+            5.774
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -37.0
+    },
+    {
+        "idx": "C119AS318028",
+        "link_id_list": [
+            "A219AS319583",
+            "A219AS319584",
+            "A219AS319585"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -11.37,
+            -19.55,
+            5.729
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318029",
+        "link_id_list": [
+            "A219AS319583",
+            "A219AS319584",
+            "A219AS319585"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -13.687,
+            -22.172,
+            5.729
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318030",
+        "link_id_list": [
+            "A219AS319575",
+            "A219AS319576",
+            "A219AS319577",
+            "A219AS319578"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -2.338,
+            -4.191,
+            5.943
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -145.0
+    },
+    {
+        "idx": "C119AS318031",
+        "link_id_list": [
+            "A219AS319575",
+            "A219AS319576",
+            "A219AS319577",
+            "A219AS319578"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -0.331,
+            -7.058,
+            5.943
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -145.0
+    },
+    {
+        "idx": "C119AS318036",
+        "link_id_list": [
+            "A219AS318024",
+            "A219AS319567",
+            "A219AS319568",
+            "A219AS319569",
+            "A219AS319570"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            210.027,
+            180.895,
+            11.823
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -139.0
+    },
+    {
+        "idx": "C119AS318037",
+        "link_id_list": [
+            "A219AS318024",
+            "A219AS319567",
+            "A219AS319568",
+            "A219AS319569",
+            "A219AS319570"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            212.323,
+            178.253,
+            11.823
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -139.0
+    },
+    {
+        "idx": "C119AS318039",
+        "link_id_list": [
+            "A219AS318145",
+            "A219AS319791",
+            "A219AS319792",
+            "A219AS319793",
+            "A219AS319794",
+            "A219AS319795"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            246.717,
+            -228.597,
+            6.335
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318040",
+        "link_id_list": [
+            "A219AS318145",
+            "A219AS319791",
+            "A219AS319792",
+            "A219AS319793",
+            "A219AS319794",
+            "A219AS319795"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            244.562,
+            -231.355,
+            6.335
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318042",
+        "link_id_list": [
+            "A219AS319790",
+            "A219AS319789",
+            "A219AS319788",
+            "A219AS318390"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            214.601,
+            -229.078,
+            6.077
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 49.0
+    },
+    {
+        "idx": "C119AS318043",
+        "link_id_list": [
+            "A219AS319790",
+            "A219AS319789",
+            "A219AS319788",
+            "A219AS318390"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            211.96,
+            -226.782,
+            6.077
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 49.0
+    },
+    {
+        "idx": "C119AS318047",
+        "link_id_list": [
+            "A219AS318135",
+            "A219AS319781",
+            "A219AS319782",
+            "A219AS319783",
+            "A219AS319784",
+            "A219AS319785",
+            "A219AS319786",
+            "A219AS319787"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            223.151,
+            -187.149,
+            6.239
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318048",
+        "link_id_list": [
+            "A219AS318135",
+            "A219AS319781",
+            "A219AS319782",
+            "A219AS319783",
+            "A219AS319784",
+            "A219AS319785",
+            "A219AS319786",
+            "A219AS319787"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            225.306,
+            -184.391,
+            6.239
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318053",
+        "link_id_list": [
+            "A219AS319610",
+            "A219AS319611"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            255.122,
+            -11.87,
+            6.918
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318054",
+        "link_id_list": [
+            "A219AS319610",
+            "A219AS319611"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            257.803,
+            -14.119,
+            6.918
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318056",
+        "link_id_list": [
+            "A219AS319609",
+            "A219AS319608"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            235.299,
+            -36.541,
+            6.628
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318057",
+        "link_id_list": [
+            "A219AS319609",
+            "A219AS319608"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            232.618,
+            -34.291,
+            6.628
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318058",
+        "link_id_list": [
+            "A219AS319612",
+            "A219AS319613"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            233.55,
+            -29.94,
+            6.643
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -17.0
+    },
+    {
+        "idx": "C119AS318059",
+        "link_id_list": [
+            "A219AS319612",
+            "A219AS319613"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            234.574,
+            -26.593,
+            6.643
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -17.0
+    },
+    {
+        "idx": "C119AS318063",
+        "link_id_list": [
+            "LN000017",
+            "A219AS319488",
+            "A219AS319487",
+            "A219AS319486",
+            "A219AS319485",
+            "A219AS319117"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1427.567,
+            -1145.243,
+            7.77
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 52.0
+    },
+    {
+        "idx": "C119AS318065",
+        "link_id_list": [
+            "LN000017",
+            "A219AS319488",
+            "A219AS319487",
+            "A219AS319486",
+            "A219AS319485",
+            "A219AS319117"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1424.809,
+            -1143.088,
+            7.77
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 52.0
+    },
+    {
+        "idx": "C119AS318068",
+        "link_id_list": [
+            "A219AS319616",
+            "A219AS319617",
+            "A219AS319618"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            331.275,
+            -63.531,
+            6.285
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -25.0
+    },
+    {
+        "idx": "C119AS318070",
+        "link_id_list": [
+            "A219AS319616",
+            "A219AS319617",
+            "A219AS319618"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            332.754,
+            -60.359,
+            6.285
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -25.0
+    },
+    {
+        "idx": "C119AS318071",
+        "link_id_list": [
+            "A219AS319473",
+            "A219AS319474",
+            "A219AS319475"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1100.66,
+            -1607.9,
+            9.168
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318072",
+        "link_id_list": [
+            "A219AS319558",
+            "A219AS319559",
+            "A219AS319560",
+            "A219AS319181"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            217.112,
+            156.051,
+            11.244
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -32.0
+    },
+    {
+        "idx": "C119AS318073",
+        "link_id_list": [
+            "A219AS319473",
+            "A219AS319474",
+            "A219AS319475"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1103.456,
+            -1610.006,
+            9.168
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318074",
+        "link_id_list": [
+            "A219AS319558",
+            "A219AS319559",
+            "A219AS319560",
+            "A219AS319181"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            218.967,
+            159.019,
+            11.244
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -32.0
+    },
+    {
+        "idx": "C119AS318075",
+        "link_id_list": [
+            "A219AS319480",
+            "A219AS319479",
+            "A219AS319478",
+            "A219AS319477",
+            "A219AS319476"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1046.117,
+            -1644.087,
+            9.023
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 55.0
+    },
+    {
+        "idx": "C119AS318076",
+        "link_id_list": [
+            "A219AS318220",
+            "A219AS319552",
+            "A219AS319553",
+            "A219AS319554"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            410.039,
+            29.131,
+            6.553
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318077",
+        "link_id_list": [
+            "A219AS319480",
+            "A219AS319479",
+            "A219AS319478",
+            "A219AS319477",
+            "A219AS319476"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1043.25,
+            -1642.08,
+            9.023
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 55.0
+    },
+    {
+        "idx": "C119AS318078",
+        "link_id_list": [
+            "A219AS318220",
+            "A219AS319552",
+            "A219AS319553",
+            "A219AS319554"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            408.184,
+            26.163,
+            6.553
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318082",
+        "link_id_list": [
+            "A219AS319640",
+            "A219AS319641",
+            "A219AS319642"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            550.083,
+            -185.946,
+            6.398
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 147.0
+    },
+    {
+        "idx": "C119AS318084",
+        "link_id_list": [
+            "A219AS319640",
+            "A219AS319641",
+            "A219AS319642"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            548.177,
+            -188.881,
+            6.398
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 147.0
+    },
+    {
+        "idx": "C119AS318085",
+        "link_id_list": [
+            "A219AS319466",
+            "A219AS319465",
+            "A219AS319464",
+            "A219AS319463",
+            "A219AS319462",
+            "A219AS318545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            949.962,
+            -1772.297,
+            8.841
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 53.0
+    },
+    {
+        "idx": "C119AS318087",
+        "link_id_list": [
+            "A219AS319466",
+            "A219AS319465",
+            "A219AS319464",
+            "A219AS319463",
+            "A219AS319462",
+            "A219AS318545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            947.167,
+            -1770.19,
+            8.841
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 53.0
+    },
+    {
+        "idx": "C119AS318088",
+        "link_id_list": [
+            "A219AS318408",
+            "A219AS319623",
+            "A219AS319624",
+            "A219AS319625",
+            "A219AS319626"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            366.427,
+            -64.176,
+            6.342
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318089",
+        "link_id_list": [
+            "A219AS319467",
+            "A219AS319468",
+            "A219AS319469",
+            "A219AS319470",
+            "A219AS319471",
+            "A219AS319472"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            983.512,
+            -1753.368,
+            8.736
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318090",
+        "link_id_list": [
+            "A219AS318408",
+            "A219AS319623",
+            "A219AS319624",
+            "A219AS319625",
+            "A219AS319626"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            369.108,
+            -66.426,
+            6.342
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318091",
+        "link_id_list": [
+            "A219AS319467",
+            "A219AS319468",
+            "A219AS319469",
+            "A219AS319470",
+            "A219AS319471",
+            "A219AS319472"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            986.307,
+            -1755.474,
+            8.736
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318095",
+        "link_id_list": [
+            "A219AS319458",
+            "A219AS319457",
+            "A219AS319459",
+            "A219AS319460",
+            "A219AS319461"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            953.732,
+            -1747.279,
+            8.866
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318096",
+        "link_id_list": [
+            "A219AS319614",
+            "A219AS319615"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            359.559,
+            -80.044,
+            6.35
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 160.0
+    },
+    {
+        "idx": "C119AS318097",
+        "link_id_list": [
+            "A219AS319458",
+            "A219AS319457",
+            "A219AS319459",
+            "A219AS319460",
+            "A219AS319461"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            955.935,
+            -1744.559,
+            8.866
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318098",
+        "link_id_list": [
+            "A219AS319614",
+            "A219AS319615"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            358.362,
+            -83.333,
+            6.35
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 160.0
+    },
+    {
+        "idx": "C119AS318102",
+        "link_id_list": [
+            "A219AS319619",
+            "A219AS319620",
+            "A219AS319621",
+            "A219AS319622"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            331.054,
+            -81.769,
+            6.41
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318104",
+        "link_id_list": [
+            "A219AS319619",
+            "A219AS319620",
+            "A219AS319621",
+            "A219AS319622"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            328.373,
+            -79.519,
+            6.41
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318105",
+        "link_id_list": [
+            "A219AS318439",
+            "A219AS319445",
+            "A219AS319446",
+            "A219AS319447",
+            "A219AS319448"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            482.716,
+            -1135.981,
+            6.279
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -53.0
+    },
+    {
+        "idx": "C119AS318107",
+        "link_id_list": [
+            "A219AS318439",
+            "A219AS319445",
+            "A219AS319446",
+            "A219AS319447",
+            "A219AS319448"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            485.511,
+            -1133.874,
+            6.279
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -53.0
+    },
+    {
+        "idx": "C119AS318112",
+        "link_id_list": [
+            "A219AS319777",
+            "A219AS319778",
+            "A219AS319779",
+            "A219AS319780"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            257.38,
+            -188.041,
+            6.396
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318113",
+        "link_id_list": [
+            "A219AS319777",
+            "A219AS319778",
+            "A219AS319779",
+            "A219AS319780"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            260.022,
+            -190.338,
+            6.396
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318117",
+        "link_id_list": [
+            "A219AS319430",
+            "A219AS319431",
+            "A219AS319432",
+            "A219AS319433",
+            "A219AS319293"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            359.333,
+            -1045.473,
+            6.313
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318118",
+        "link_id_list": [
+            "A219AS319630",
+            "A219AS319631",
+            "A219AS319632"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            462.122,
+            -113.044,
+            6.508
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318119",
+        "link_id_list": [
+            "A219AS319430",
+            "A219AS319431",
+            "A219AS319432",
+            "A219AS319433",
+            "A219AS319293"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            357.131,
+            -1048.193,
+            6.313
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318120",
+        "link_id_list": [
+            "A219AS319630",
+            "A219AS319631",
+            "A219AS319632"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            464.803,
+            -115.294,
+            6.508
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318124",
+        "link_id_list": [
+            "A219AS319627",
+            "A219AS319628",
+            "A219AS319629"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            457.79,
+            -128.195,
+            6.566
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 145.0
+    },
+    {
+        "idx": "C119AS318125",
+        "link_id_list": [
+            "A219AS319441",
+            "A219AS319442",
+            "A219AS319443",
+            "A219AS319444"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            495.263,
+            -1171.974,
+            6.614
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 133.0
+    },
+    {
+        "idx": "C119AS318126",
+        "link_id_list": [
+            "A219AS319627",
+            "A219AS319628",
+            "A219AS319629"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            455.8,
+            -131.04,
+            6.566
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 145.0
+    },
+    {
+        "idx": "C119AS318127",
+        "link_id_list": [
+            "A219AS319441",
+            "A219AS319442",
+            "A219AS319443",
+            "A219AS319444"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            492.703,
+            -1174.361,
+            6.614
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 133.0
+    },
+    {
+        "idx": "C119AS318128",
+        "link_id_list": [
+            "A219AS319637",
+            "A219AS319638",
+            "A219AS319639"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            440.049,
+            -132.175,
+            6.229
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318130",
+        "link_id_list": [
+            "A219AS319637",
+            "A219AS319638",
+            "A219AS319639"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            437.368,
+            -129.925,
+            6.229
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318131",
+        "link_id_list": [
+            "A219AS318773",
+            "A219AS319449",
+            "A219AS319450",
+            "A219AS319451"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            476.38,
+            -1166.49,
+            6.614
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318133",
+        "link_id_list": [
+            "A219AS318773",
+            "A219AS319449",
+            "A219AS319450",
+            "A219AS319451"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            473.699,
+            -1164.24,
+            6.614
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318134",
+        "link_id_list": [
+            "A219AS319633",
+            "A219AS319634",
+            "A219AS319635",
+            "A219AS319636"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            442.97,
+            -116.818,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -30.0
+    },
+    {
+        "idx": "C119AS318136",
+        "link_id_list": [
+            "A219AS319633",
+            "A219AS319634",
+            "A219AS319635",
+            "A219AS319636"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            444.72,
+            -113.787,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -30.0
+    },
+    {
+        "idx": "C119AS318141",
+        "link_id_list": [
+            "A219AS319814",
+            "A219AS319813",
+            "A219AS319812",
+            "A219AS319811",
+            "A219AS318741"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            653.245,
+            -965.991,
+            8.737
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318143",
+        "link_id_list": [
+            "A219AS319814",
+            "A219AS319813",
+            "A219AS319812",
+            "A219AS319811",
+            "A219AS318741"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            650.564,
+            -963.741,
+            8.737
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318145",
+        "link_id_list": [
+            "A219AS318775",
+            "A219AS319819",
+            "A219AS319820",
+            "A219AS319821",
+            "A219AS319822",
+            "A219AS319823"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            687.365,
+            -941.062,
+            9.149
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318146",
+        "link_id_list": [
+            "A219AS319643",
+            "A219AS319644",
+            "A219AS319645"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            548.837,
+            -167.977,
+            6.469
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318147",
+        "link_id_list": [
+            "A219AS318775",
+            "A219AS319819",
+            "A219AS319820",
+            "A219AS319821",
+            "A219AS319822",
+            "A219AS319823"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            690.047,
+            -943.312,
+            9.149
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318148",
+        "link_id_list": [
+            "A219AS319643",
+            "A219AS319644",
+            "A219AS319645"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            551.518,
+            -170.226,
+            6.469
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318149",
+        "link_id_list": [
+            "A219AS318873",
+            "A219AS319808",
+            "A219AS319809",
+            "A219AS319810"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            659.032,
+            -939.432,
+            9.078
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -40.0
+    },
+    {
+        "idx": "C119AS318151",
+        "link_id_list": [
+            "A219AS318873",
+            "A219AS319808",
+            "A219AS319809",
+            "A219AS319810"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            661.282,
+            -936.751,
+            9.078
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -40.0
+    },
+    {
+        "idx": "C119AS318156",
+        "link_id_list": [
+            "A219AS319646",
+            "A219AS319647",
+            "A219AS319648"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            533.411,
+            -168.567,
+            6.333
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -36.0
+    },
+    {
+        "idx": "C119AS318158",
+        "link_id_list": [
+            "A219AS319646",
+            "A219AS319647",
+            "A219AS319648"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            535.468,
+            -165.735,
+            6.333
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -36.0
+    },
+    {
+        "idx": "C119AS318161",
+        "link_id_list": [
+            "A219AS318893",
+            "A219AS319815",
+            "A219AS319816",
+            "A219AS319817",
+            "A219AS319818"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            686.935,
+            -970.979,
+            9.581
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318162",
+        "link_id_list": [
+            "A219AS319649",
+            "A219AS319650",
+            "A219AS319651"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            527.054,
+            -189.338,
+            6.249
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318163",
+        "link_id_list": [
+            "A219AS318893",
+            "A219AS319815",
+            "A219AS319816",
+            "A219AS319817",
+            "A219AS319818"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            684.685,
+            -973.66,
+            9.581
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318164",
+        "link_id_list": [
+            "A219AS319649",
+            "A219AS319650",
+            "A219AS319651"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            524.372,
+            -187.089,
+            6.249
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318169",
+        "link_id_list": [
+            "A219AS319802",
+            "A219AS319803"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            753.735,
+            -1028.355,
+            18.273
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 135.0
+    },
+    {
+        "idx": "C119AS318171",
+        "link_id_list": [
+            "A219AS319802",
+            "A219AS319803"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            751.261,
+            -1030.83,
+            18.273
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 135.0
+    },
+    {
+        "idx": "C119AS318173",
+        "link_id_list": [
+            "A219AS319800",
+            "A219AS319801"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            781.319,
+            -1038.193,
+            20.969
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -30.0
+    },
+    {
+        "idx": "C119AS318175",
+        "link_id_list": [
+            "A219AS319800",
+            "A219AS319801"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            783.069,
+            -1035.162,
+            20.969
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -30.0
+    },
+    {
+        "idx": "C119AS318176",
+        "link_id_list": [
+            "A219AS319855"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -0.93,
+            -269.93,
+            6.056
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -21.0
+    },
+    {
+        "idx": "C119AS318177",
+        "link_id_list": [
+            "A219AS318849",
+            "A219AS318847"
+        ],
+        "sub_type": [
+            "yellow",
+            "yellow",
+            "yellow"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            892.46,
+            -1048.99,
+            31.49764
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 10.0
+    },
+    {
+        "idx": "C119AS318178",
+        "link_id_list": [
+            "A219AS319855"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -0.123,
+            -267.818,
+            6.056
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -21.0
+    },
+    {
+        "idx": "C119AS318179",
+        "link_id_list": [
+            "A219AS318849",
+            "A219AS318847"
+        ],
+        "sub_type": [
+            "yellow",
+            "yellow",
+            "yellow"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            891.9862,
+            -1046.279,
+            31.49764
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 10.0
+    },
+    {
+        "idx": "C119AS318184",
+        "link_id_list": [
+            "A219AS319856"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -1.73,
+            -269.57,
+            6.056
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 159.0
+    },
+    {
+        "idx": "C119AS318186",
+        "link_id_list": [
+            "A219AS319856"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -32.038,
+            -256.466,
+            5.856
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 149.0
+    },
+    {
+        "idx": "C119AS318187",
+        "link_id_list": [
+            "A219AS318671",
+            "A219AS318673"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            780.181,
+            -829.589,
+            9.756
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318188",
+        "link_id_list": [
+            "A219AS319855"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -31.32,
+            -256.82,
+            5.856
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -31.0
+    },
+    {
+        "idx": "C119AS318189",
+        "link_id_list": [
+            "A219AS318715",
+            "A219AS318713"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            755.887,
+            -848.94,
+            9.99
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318190",
+        "link_id_list": [
+            "A219AS319856"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -33.841,
+            -259.466,
+            5.856
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 149.0
+    },
+    {
+        "idx": "C119AS318191",
+        "link_id_list": [
+            "A219AS318715",
+            "A219AS318713"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            753.206,
+            -846.69,
+            9.99
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318197",
+        "link_id_list": [
+            "A219AS318671",
+            "A219AS318673"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            782.862,
+            -831.838,
+            9.756
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318198",
+        "link_id_list": [
+            "A219AS318270",
+            "A219AS319546",
+            "A219AS319547",
+            "A219AS319548"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            693.684,
+            -165.047,
+            6.215
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318200",
+        "link_id_list": [
+            "A219AS318270",
+            "A219AS319546",
+            "A219AS319547",
+            "A219AS319548"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            696.365,
+            -167.297,
+            6.215
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318202",
+        "link_id_list": [
+            "A219AS319540",
+            "A219AS319541",
+            "A219AS319542"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            723.853,
+            -153.533,
+            6.427
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -31.0
+    },
+    {
+        "idx": "C119AS318203",
+        "link_id_list": [
+            "A219AS318475",
+            "A219AS319452",
+            "A219AS319453",
+            "A219AS319454",
+            "A219AS319455",
+            "A219AS319456"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            980.21,
+            -1777.245,
+            8.87
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 137.0
+    },
+    {
+        "idx": "C119AS318204",
+        "link_id_list": [
+            "A219AS319540",
+            "A219AS319541",
+            "A219AS319542"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            725.656,
+            -150.532,
+            6.427
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -31.0
+    },
+    {
+        "idx": "C119AS318205",
+        "link_id_list": [
+            "A219AS318475",
+            "A219AS319452",
+            "A219AS319453",
+            "A219AS319454",
+            "A219AS319455",
+            "A219AS319456"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            977.823,
+            -1779.805,
+            8.87
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 137.0
+    },
+    {
+        "idx": "C119AS318208",
+        "link_id_list": [
+            "A219AS318830",
+            "A219AS318828"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            814.239,
+            -208.865,
+            6.527
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -35.0
+    },
+    {
+        "idx": "C119AS318210",
+        "link_id_list": [
+            "A219AS318830",
+            "A219AS318828"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            816.246,
+            -205.998,
+            6.527
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -35.0
+    },
+    {
+        "idx": "C119AS318214",
+        "link_id_list": [
+            "A219AS319538",
+            "A219AS319539"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            804.051,
+            -212.173,
+            6.469
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318215",
+        "link_id_list": [
+            "A219AS319538",
+            "A219AS319539"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            802.196,
+            -215.141,
+            6.469
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 148.0
+    },
+    {
+        "idx": "C119AS318217",
+        "link_id_list": [
+            "A219AS319532",
+            "A219AS319533",
+            "A219AS319534"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            927.68,
+            -326.21,
+            6.725
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 138.0
+    },
+    {
+        "idx": "C119AS318218",
+        "link_id_list": [
+            "A219AS319532",
+            "A219AS319533",
+            "A219AS319534"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            929.436,
+            -324.261,
+            6.725
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 138.0
+    },
+    {
+        "idx": "C119AS318220",
+        "link_id_list": [
+            "A219AS319529",
+            "A219AS319530",
+            "A219AS319531"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            962.849,
+            -339.094,
+            6.425
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318221",
+        "link_id_list": [
+            "A219AS319529",
+            "A219AS319530",
+            "A219AS319531"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            965.191,
+            -336.493,
+            6.425
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318223",
+        "link_id_list": [
+            "A219AS318886",
+            "A219AS319535",
+            "A219AS319536",
+            "A219AS319537"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            931.803,
+            -345.224,
+            6.678
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318224",
+        "link_id_list": [
+            "A219AS318886",
+            "A219AS319535",
+            "A219AS319536",
+            "A219AS319537"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            934.484,
+            -347.474,
+            6.678
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318226",
+        "link_id_list": [
+            "A219AS318903",
+            "A219AS318904"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            608.79,
+            -720.774,
+            9.438
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318227",
+        "link_id_list": [
+            "A219AS318903",
+            "A219AS318904"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            606.109,
+            -718.524,
+            9.438
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318228",
+        "link_id_list": [
+            "A219AS318947",
+            "A219AS318948",
+            "A219AS318949"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            630.328,
+            -704.855,
+            8.741
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318229",
+        "link_id_list": [
+            "A219AS318947",
+            "A219AS318948",
+            "A219AS318949"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            633.009,
+            -707.105,
+            8.741
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318230",
+        "link_id_list": [
+            "A219AS318958",
+            "A219AS319756",
+            "A219AS319757",
+            "A219AS319758",
+            "A219AS319759"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            745.668,
+            -569.921,
+            6.434
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318231",
+        "link_id_list": [
+            "A219AS318958",
+            "A219AS319756",
+            "A219AS319757",
+            "A219AS319758",
+            "A219AS319759"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            748.349,
+            -572.171,
+            6.434
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318232",
+        "link_id_list": [
+            "A219AS318874",
+            "A219AS318876",
+            "A219AS318878"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            833.87,
+            -464.5,
+            6.356
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318233",
+        "link_id_list": [
+            "A219AS318874",
+            "A219AS318876",
+            "A219AS318878"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            831.5,
+            -462.51,
+            6.356
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318235",
+        "link_id_list": [
+            "A219AS318850",
+            "A219AS318852",
+            "A219AS318854"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            817.1591,
+            -465.54,
+            6.301
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318236",
+        "link_id_list": [
+            "A219AS318850",
+            "A219AS318852",
+            "A219AS318854"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            819.84,
+            -467.79,
+            6.301
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318239",
+        "link_id_list": [
+            "A219AS318624",
+            "A219AS319751",
+            "A219AS319752",
+            "A219AS319753",
+            "A219AS319754",
+            "A219AS319755"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            738.723,
+            -609.658,
+            6.325
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318240",
+        "link_id_list": [
+            "A219AS318624",
+            "A219AS319751",
+            "A219AS319752",
+            "A219AS319753",
+            "A219AS319754",
+            "A219AS319755"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            736.568,
+            -612.416,
+            6.325
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318242",
+        "link_id_list": [
+            "A219AS318766",
+            "A219AS319741",
+            "A219AS319742",
+            "A219AS319743",
+            "A219AS319744",
+            "A219AS319745",
+            "A219AS319746"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            710.135,
+            -567.634,
+            6.461
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318243",
+        "link_id_list": [
+            "A219AS318766",
+            "A219AS319741",
+            "A219AS319742",
+            "A219AS319743",
+            "A219AS319744",
+            "A219AS319745",
+            "A219AS319746"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            712.29,
+            -564.876,
+            6.461
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318245",
+        "link_id_list": [
+            "A219AS318888",
+            "A219AS319747",
+            "A219AS319748",
+            "A219AS319749",
+            "A219AS319750"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            703.352,
+            -607.646,
+            6.404
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318246",
+        "link_id_list": [
+            "A219AS318888",
+            "A219AS319747",
+            "A219AS319748",
+            "A219AS319749",
+            "A219AS319750"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            700.671,
+            -605.396,
+            6.404
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318248",
+        "link_id_list": [
+            "A219AS319654",
+            "A219AS319655",
+            "A219AS319656"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            613.377,
+            -245.129,
+            6.408
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318249",
+        "link_id_list": [
+            "A219AS319654",
+            "A219AS319655",
+            "A219AS319656"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            610.696,
+            -242.879,
+            6.408
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318251",
+        "link_id_list": [
+            "A219AS319657",
+            "A219AS319658",
+            "A219AS319659"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            632.505,
+            -236.454,
+            6.293
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318252",
+        "link_id_list": [
+            "A219AS319657",
+            "A219AS319658",
+            "A219AS319659"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            635.186,
+            -238.704,
+            6.293
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318254",
+        "link_id_list": [
+            "A219AS319652",
+            "A219AS319653"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            634.01,
+            -243.661,
+            6.397
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318255",
+        "link_id_list": [
+            "A219AS319652",
+            "A219AS319653"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            631.808,
+            -246.381,
+            6.397
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318256",
+        "link_id_list": [
+            "A219AS318660",
+            "A219AS319760",
+            "A219AS319761",
+            "A219AS319762",
+            "A219AS319763",
+            "A219AS319764",
+            "A219AS319765"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            477.307,
+            -384.266,
+            6.213
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318257",
+        "link_id_list": [
+            "A219AS318660",
+            "A219AS319760",
+            "A219AS319761",
+            "A219AS319762",
+            "A219AS319763",
+            "A219AS319764",
+            "A219AS319765"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            479.462,
+            -381.508,
+            6.213
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318258",
+        "link_id_list": [
+            "A219AS318252",
+            "A219AS319766",
+            "A219AS319767",
+            "A219AS319768"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            472.339,
+            -426.141,
+            6.182
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318259",
+        "link_id_list": [
+            "A219AS318252",
+            "A219AS319766",
+            "A219AS319767",
+            "A219AS319768"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            469.658,
+            -423.891,
+            6.182
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318260",
+        "link_id_list": [
+            "A219AS318164",
+            "A219AS319769",
+            "A219AS319770",
+            "A219AS319771",
+            "A219AS319772",
+            "A219AS319773"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            499.668,
+            -424.344,
+            6.177
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318261",
+        "link_id_list": [
+            "A219AS318164",
+            "A219AS319769",
+            "A219AS319770",
+            "A219AS319771",
+            "A219AS319772",
+            "A219AS319773"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            497.513,
+            -427.102,
+            6.177
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318262",
+        "link_id_list": [
+            "A219AS319774",
+            "A219AS319775",
+            "A219AS319776"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            510.538,
+            -385.248,
+            6.167
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318263",
+        "link_id_list": [
+            "A219AS319774",
+            "A219AS319775",
+            "A219AS319776"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            513.333,
+            -387.354,
+            6.167
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318277",
+        "link_id_list": [
+            "A219AS318940",
+            "A219AS319835",
+            "A219AS319836",
+            "A219AS319837",
+            "A219AS319838"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            538.315,
+            -815.044,
+            12.026
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318278",
+        "link_id_list": [
+            "A219AS318940",
+            "A219AS319835",
+            "A219AS319836",
+            "A219AS319837",
+            "A219AS319838"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            540.996,
+            -817.294,
+            12.026
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318281",
+        "link_id_list": [
+            "A219AS318959",
+            "A219AS319828",
+            "A219AS319829",
+            "A219AS319830",
+            "A219AS319831"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            505.892,
+            -841.293,
+            11.845
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318282",
+        "link_id_list": [
+            "A219AS318959",
+            "A219AS319828",
+            "A219AS319829",
+            "A219AS319830",
+            "A219AS319831"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            503.211,
+            -839.043,
+            11.845
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318285",
+        "link_id_list": [
+            "A219AS319832",
+            "A219AS319833",
+            "A219AS319834"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            535.911,
+            -845.979,
+            11.347
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318286",
+        "link_id_list": [
+            "A219AS319832",
+            "A219AS319833",
+            "A219AS319834"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            533.662,
+            -848.66,
+            11.347
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318287",
+        "link_id_list": [
+            "A219AS318895",
+            "A219AS319839",
+            "A219AS319840",
+            "A219AS319841"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            507.817,
+            -811.186,
+            11.733
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -40.0
+    },
+    {
+        "idx": "C119AS318288",
+        "link_id_list": [
+            "A219AS318895",
+            "A219AS319839",
+            "A219AS319840",
+            "A219AS319841"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            510.067,
+            -808.505,
+            11.733
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -40.0
+    },
+    {
+        "idx": "C119AS318291",
+        "link_id_list": [
+            "A219AS318788",
+            "A219AS319732",
+            "A219AS319733",
+            "A219AS319734",
+            "A219AS319735",
+            "A219AS319736"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            845.459,
+            -692.281,
+            7.504
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318292",
+        "link_id_list": [
+            "A219AS318788",
+            "A219AS319732",
+            "A219AS319733",
+            "A219AS319734",
+            "A219AS319735",
+            "A219AS319736"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            843.304,
+            -695.039,
+            7.504
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318294",
+        "link_id_list": [
+            "A219AS319524",
+            "A219AS319525",
+            "A219AS319526"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1071.064,
+            -450.086,
+            3.723
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 139.0
+    },
+    {
+        "idx": "C119AS318295",
+        "link_id_list": [
+            "A219AS319524",
+            "A219AS319525",
+            "A219AS319526"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1068.768,
+            -452.727,
+            3.723
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 139.0
+    },
+    {
+        "idx": "C119AS318297",
+        "link_id_list": [
+            "A219AS319501",
+            "A219AS319502"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1632.379,
+            -938.031,
+            8.821
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318298",
+        "link_id_list": [
+            "A219AS319501",
+            "A219AS319502"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1630.176,
+            -940.751,
+            8.821
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 141.0
+    },
+    {
+        "idx": "C119AS318302",
+        "link_id_list": [
+            "A219AS319509",
+            "A219AS319510"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1513.835,
+            -814.25,
+            7.946
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -132.0
+    },
+    {
+        "idx": "C119AS318303",
+        "link_id_list": [
+            "A219AS319509",
+            "A219AS319510"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1516.436,
+            -816.592,
+            7.946
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -132.0
+    },
+    {
+        "idx": "C119AS318305",
+        "link_id_list": [
+            "A219AS319503",
+            "A219AS319504",
+            "A219AS319505"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1499.494,
+            -813.85,
+            7.982
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -43.0
+    },
+    {
+        "idx": "C119AS318306",
+        "link_id_list": [
+            "A219AS319503",
+            "A219AS319504",
+            "A219AS319505"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1501.881,
+            -811.29,
+            7.982
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -43.0
+    },
+    {
+        "idx": "C119AS318311",
+        "link_id_list": [
+            "A219AS319511",
+            "A219AS319512"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1362.632,
+            -696.155,
+            8.037
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -41.0
+    },
+    {
+        "idx": "C119AS318312",
+        "link_id_list": [
+            "A219AS319511",
+            "A219AS319512"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1364.929,
+            -693.514,
+            8.037
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -41.0
+    },
+    {
+        "idx": "C119AS318317",
+        "link_id_list": [
+            "A219AS319520",
+            "A219AS319521"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1263.411,
+            -614.303,
+            8.074
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318318",
+        "link_id_list": [
+            "A219AS319520",
+            "A219AS319521"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1261.161,
+            -616.984,
+            8.074
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 140.0
+    },
+    {
+        "idx": "C119AS318319",
+        "link_id_list": [
+            "A219AS319518",
+            "A219AS319519"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1262.489,
+            -608.999,
+            8.07
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318320",
+        "link_id_list": [
+            "A219AS319518",
+            "A219AS319519"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1264.831,
+            -606.398,
+            8.07
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318322",
+        "link_id_list": [
+            "A219AS319523",
+            "A219AS319522"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1101.531,
+            -463.874,
+            3.972
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318323",
+        "link_id_list": [
+            "A219AS319523",
+            "A219AS319522"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1103.873,
+            -461.273,
+            3.972
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -42.0
+    },
+    {
+        "idx": "C119AS318327",
+        "link_id_list": [
+            "A219AS319527",
+            "A219AS319528"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1077.283,
+            -478.043,
+            3.532
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318328",
+        "link_id_list": [
+            "A219AS319527",
+            "A219AS319528"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1079.964,
+            -480.293,
+            3.532
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318329",
+        "link_id_list": [
+            "A219AS319663",
+            "A219AS319662"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            980.696,
+            -578.479,
+            3.83
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318330",
+        "link_id_list": [
+            "A219AS319663",
+            "A219AS319662"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            978.015,
+            -576.229,
+            3.83
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318331",
+        "link_id_list": [
+            "A219AS318704",
+            "A219AS318702",
+            "A219AS318700"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            959.47,
+            -609.32,
+            4.064
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 49.21100000000001
+    },
+    {
+        "idx": "C119AS318332",
+        "link_id_list": [
+            "A219AS318704",
+            "A219AS318702",
+            "A219AS318700"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            956.8799,
+            -607.09,
+            4.064
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 49.21100000000001
+    },
+    {
+        "idx": "C119AS318334",
+        "link_id_list": [
+            "A219AS318794",
+            "A219AS318796"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            963.17,
+            -619.9,
+            4.001
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.78852
+    },
+    {
+        "idx": "C119AS318335",
+        "link_id_list": [
+            "A219AS318794",
+            "A219AS318796"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            961.285,
+            -618.272,
+            4.001
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.78852
+    },
+    {
+        "idx": "C119AS318337",
+        "link_id_list": [
+            "A219AS318739",
+            "A219AS319737",
+            "A219AS319738",
+            "A219AS319739",
+            "A219AS319740"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            896.534,
+            -688.927,
+            7.298
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318338",
+        "link_id_list": [
+            "A219AS318739",
+            "A219AS319737",
+            "A219AS319738",
+            "A219AS319739",
+            "A219AS319740"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            899.216,
+            -691.176,
+            7.298
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318339",
+        "link_id_list": [
+            "A219AS319164",
+            "A219AS319723",
+            "A219AS319724",
+            "A219AS319725",
+            "A219AS319726",
+            "A219AS319727"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            866.698,
+            -687.209,
+            7.441
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -37.0
+    },
+    {
+        "idx": "C119AS318340",
+        "link_id_list": [
+            "A219AS319731",
+            "A219AS319730",
+            "A219AS319729",
+            "A219AS319728"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            857.777,
+            -727.328,
+            7.92
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318341",
+        "link_id_list": [
+            "A219AS319731",
+            "A219AS319730",
+            "A219AS319729",
+            "A219AS319728"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            855.096,
+            -725.078,
+            7.92
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318342",
+        "link_id_list": [
+            "A219AS318788",
+            "A219AS319732",
+            "A219AS319733",
+            "A219AS319734",
+            "A219AS319735",
+            "A219AS319736"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            891.212,
+            -730.314,
+            8.193
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318345",
+        "link_id_list": [
+            "A219AS319164",
+            "A219AS319723",
+            "A219AS319724",
+            "A219AS319725",
+            "A219AS319726",
+            "A219AS319727"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            908.636,
+            -724.31,
+            8.312
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -37.0
+    },
+    {
+        "idx": "C119AS318346",
+        "link_id_list": [
+            "A219AS319164",
+            "A219AS319723",
+            "A219AS319724",
+            "A219AS319725",
+            "A219AS319726",
+            "A219AS319727"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            910.743,
+            -721.515,
+            8.312
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -37.0
+    },
+    {
+        "idx": "C119AS318347",
+        "link_id_list": [
+            "A219AS319721",
+            "A219AS319722"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1007.009,
+            -818.267,
+            15.261
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318348",
+        "link_id_list": [
+            "A219AS319721",
+            "A219AS319722"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1004.854,
+            -821.025,
+            15.261
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318351",
+        "link_id_list": [
+            "A219AS319717",
+            "A219AS319718",
+            "A219AS319719",
+            "A219AS319720"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1002.658,
+            -796.918,
+            14.519
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318352",
+        "link_id_list": [
+            "A219AS319717",
+            "A219AS319718",
+            "A219AS319719",
+            "A219AS319720"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1004.812,
+            -794.16,
+            14.519
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318353",
+        "link_id_list": [
+            "A219AS319710",
+            "A219AS319711",
+            "A219AS319712",
+            "A219AS319713"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1069.778,
+            -867.311,
+            18.349
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318354",
+        "link_id_list": [
+            "A219AS319710",
+            "A219AS319711",
+            "A219AS319712",
+            "A219AS319713"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1067.623,
+            -870.069,
+            18.349
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318355",
+        "link_id_list": [
+            "A219AS319706",
+            "A219AS319707",
+            "A219AS319708",
+            "A219AS319709"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1093.83,
+            -866.908,
+            18.245
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318356",
+        "link_id_list": [
+            "A219AS319706",
+            "A219AS319707",
+            "A219AS319708",
+            "A219AS319709"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1096.033,
+            -864.188,
+            18.245
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318359",
+        "link_id_list": [
+            "A219AS319703",
+            "A219AS319704",
+            "A219AS319705"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1165.435,
+            -940.222,
+            16.733
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 143.0
+    },
+    {
+        "idx": "C119AS318360",
+        "link_id_list": [
+            "A219AS319703",
+            "A219AS319704",
+            "A219AS319705"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1163.328,
+            -943.017,
+            16.733
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 143.0
+    },
+    {
+        "idx": "C119AS318363",
+        "link_id_list": [
+            "A219AS319126",
+            "A219AS319489",
+            "A219AS319490",
+            "A219AS319491",
+            "A219AS319492",
+            "A219AS319403"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1451.613,
+            -1151.809,
+            7.767
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 143.0
+    },
+    {
+        "idx": "C119AS318364",
+        "link_id_list": [
+            "A219AS319126",
+            "A219AS319489",
+            "A219AS319490",
+            "A219AS319491",
+            "A219AS319492",
+            "A219AS319403"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1449.507,
+            -1154.604,
+            7.767
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 143.0
+    },
+    {
+        "idx": "C119AS318365",
+        "link_id_list": [
+            "A219AS319495",
+            "A219AS319493",
+            "A219AS319494",
+            "A219AS319496"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1431.412,
+            -1128.142,
+            7.568
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318366",
+        "link_id_list": [
+            "A219AS319495",
+            "A219AS319493",
+            "A219AS319494",
+            "A219AS319496"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1433.567,
+            -1125.384,
+            7.568
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318367",
+        "link_id_list": [
+            "A219AS318615",
+            "A219AS319481",
+            "A219AS319482",
+            "A219AS319483",
+            "A219AS319484",
+            "A219AS318613"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1461.945,
+            -1126.621,
+            7.473
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318368",
+        "link_id_list": [
+            "A219AS318615",
+            "A219AS319481",
+            "A219AS319482",
+            "A219AS319483",
+            "A219AS319484",
+            "A219AS318613"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1464.74,
+            -1128.728,
+            7.473
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "C119AS318371",
+        "link_id_list": [
+            "A219AS319516",
+            "A219AS319517"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1349.223,
+            -704.087,
+            7.623
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318372",
+        "link_id_list": [
+            "A219AS319516",
+            "A219AS319517"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1351.864,
+            -706.383,
+            7.623
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -131.0
+    },
+    {
+        "idx": "C119AS318375",
+        "link_id_list": [
+            "A219AS319506",
+            "A219AS319507",
+            "A219AS319508"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1516.275,
+            -840.195,
+            8.029
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 138.0
+    },
+    {
+        "idx": "C119AS318377",
+        "link_id_list": [
+            "A219AS319660",
+            "A219AS319661"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            999.805,
+            -574.414,
+            3.789
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "C119AS318379",
+        "link_id_list": [
+            "A219AS319513",
+            "A219AS319514",
+            "A219AS319515"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1344.418,
+            -689.694,
+            7.856
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 138.0
+    },
+    {
+        "idx": "C119AS318380",
+        "link_id_list": [
+            "A219AS319513",
+            "A219AS319514",
+            "A219AS319515"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1342.076,
+            -692.295,
+            7.856
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 138.0
+    },
+    {
+        "idx": "C119AS318381",
+        "link_id_list": [
+            "A219AS319700",
+            "A219AS319701",
+            "A219AS319702",
+            "A219AS319141"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1155.226,
+            -915.135,
+            16.883
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318382",
+        "link_id_list": [
+            "A219AS319700",
+            "A219AS319701",
+            "A219AS319702",
+            "A219AS319141"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1157.38,
+            -912.377,
+            16.883
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318385",
+        "link_id_list": [],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1487.49,
+            -837.17,
+            7.804
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318386",
+        "link_id_list": [],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1489.65,
+            -838.98,
+            7.804
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318391",
+        "link_id_list": [
+            "A219AS319499",
+            "A219AS319500"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1623.98,
+            -925.09,
+            8.844
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318392",
+        "link_id_list": [
+            "A219AS319499",
+            "A219AS319500"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1626.183,
+            -922.3701,
+            8.844
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -39.0
+    },
+    {
+        "idx": "C119AS318394",
+        "link_id_list": [
+            "A219AS319497",
+            "A219AS319498"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1628.94,
+            -923.53,
+            8.844
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -133.25850000000003
+    },
+    {
+        "idx": "C119AS318395",
+        "link_id_list": [
+            "A219AS319497",
+            "A219AS319498"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1630.55,
+            -925.04,
+            8.844
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -133.25850000000003
+    },
+    {
+        "idx": "C119AS318398",
+        "link_id_list": [
+            "A219AS319437",
+            "A219AS319436",
+            "A219AS319435",
+            "A219AS319434",
+            "A219AS318421"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            332.668,
+            -1006.716,
+            6.448
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318399",
+        "link_id_list": [
+            "A219AS319437",
+            "A219AS319436",
+            "A219AS319435",
+            "A219AS319434",
+            "A219AS318421"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            334.823,
+            -1003.957,
+            6.448
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318402",
+        "link_id_list": [
+            "A219AS319418",
+            "A219AS319419",
+            "A219AS319420",
+            "A219AS319421"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -154.03,
+            -627.263,
+            6.238
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318403",
+        "link_id_list": [
+            "A219AS319418",
+            "A219AS319419",
+            "A219AS319420",
+            "A219AS319421"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -151.875,
+            -624.505,
+            6.238
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318405",
+        "link_id_list": [
+            "A219AS319440",
+            "A219AS319439",
+            "A219AS319438"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            339.236,
+            -1040.409,
+            6.475
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318406",
+        "link_id_list": [
+            "A219AS319440",
+            "A219AS319439",
+            "A219AS319438"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            336.555,
+            -1038.159,
+            6.475
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 50.0
+    },
+    {
+        "idx": "C119AS318409",
+        "link_id_list": [
+            "A219AS319422",
+            "A219AS319423"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -130.398,
+            -678.199,
+            6.344
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 52.0
+    },
+    {
+        "idx": "C119AS318410",
+        "link_id_list": [
+            "A219AS319414",
+            "A219AS319415",
+            "A219AS319416",
+            "A219AS319417"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -130.2,
+            -668.201,
+            6.344
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318411",
+        "link_id_list": [
+            "A219AS319414",
+            "A219AS319415",
+            "A219AS319416",
+            "A219AS319417"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -132.355,
+            -670.959,
+            6.344
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318412",
+        "link_id_list": [
+            "A219AS319422",
+            "A219AS319423"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -133.156,
+            -676.044,
+            6.344
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 52.0
+    },
+    {
+        "idx": "C119AS318414",
+        "link_id_list": [
+            "A219AS319406",
+            "A219AS319407",
+            "A219AS319408",
+            "A219AS319409",
+            "A219AS319294"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -532.384,
+            -350.55,
+            6.423
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 126.0
+    },
+    {
+        "idx": "C119AS318417",
+        "link_id_list": [
+            "A219AS319410",
+            "A219AS319411",
+            "A219AS319412",
+            "A219AS319292"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -513.358,
+            -351.39,
+            6.002
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -47.0
+    },
+    {
+        "idx": "C119AS318418",
+        "link_id_list": [
+            "A219AS319410",
+            "A219AS319411",
+            "A219AS319412",
+            "A219AS319292"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -510.88,
+            -349.08,
+            6.002
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -47.0
+    },
+    {
+        "idx": "C119AS318420",
+        "link_id_list": [
+            "A219AS319410",
+            "A219AS319411",
+            "A219AS319412",
+            "A219AS319292"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -537.97,
+            -323.593,
+            6.334
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -47.0
+    },
+    {
+        "idx": "C119AS318422",
+        "link_id_list": [
+            "A219AS319406",
+            "A219AS319407",
+            "A219AS319408",
+            "A219AS319409",
+            "A219AS319294"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -556.163,
+            -320.465,
+            6.372
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 126.0
+    },
+    {
+        "idx": "C119AS318423",
+        "link_id_list": [
+            "A219AS319406",
+            "A219AS319407",
+            "A219AS319408",
+            "A219AS319409",
+            "A219AS319294"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -558.994,
+            -322.522,
+            6.372
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 126.0
+    },
+    {
+        "idx": "C119AS318425",
+        "link_id_list": [
+            "A219AS319413"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -554.59,
+            -336.751,
+            6.473
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 40.0
+    },
+    {
+        "idx": "C119AS318427",
+        "link_id_list": [
+            "A219AS319424",
+            "A219AS319425",
+            "A219AS319426"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            120.71,
+            -862.425,
+            6.869
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318428",
+        "link_id_list": [
+            "A219AS319424",
+            "A219AS319425",
+            "A219AS319426"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            118.555,
+            -865.183,
+            6.869
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 142.0
+    },
+    {
+        "idx": "C119AS318429",
+        "link_id_list": [
+            "A219AS319427",
+            "A219AS319428",
+            "A219AS319429"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            101.338,
+            -827.79,
+            7.147
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318430",
+        "link_id_list": [
+            "A219AS319427",
+            "A219AS319428",
+            "A219AS319429"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            103.493,
+            -825.032,
+            7.147
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -38.0
+    },
+    {
+        "idx": "C119AS318433",
+        "link_id_list": [],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -523.53,
+            -320.4,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -140.0
+    },
+    {
+        "idx": "C119AS318434",
+        "link_id_list": [],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -525.48,
+            -318.07,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -140.0
+    },
+    {
+        "idx": "C119AS318435",
+        "link_id_list": [],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -545.38,
+            -347.26,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -140.0
+    },
+    {
+        "idx": "C119AS318436",
+        "link_id_list": [
+            "A219AS319589",
+            "A219AS319590",
+            "A219AS319591",
+            "A219AS319592",
+            "A219AS319880"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -303.032,
+            -196.497,
+            4.741
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -147.0
+    },
+    {
+        "idx": "C119AS318437",
+        "link_id_list": [
+            "A219AS319589",
+            "A219AS319590",
+            "A219AS319591",
+            "A219AS319592",
+            "A219AS319880"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -301.126,
+            -199.432,
+            4.741
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -147.0
+    },
+    {
+        "idx": "C119AS318438",
+        "link_id_list": [
+            "A219AS319881"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -331.069,
+            -189.188,
+            4.863
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -54.0
+    },
+    {
+        "idx": "C119AS318439",
+        "link_id_list": [
+            "A219AS319881"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -328.238,
+            -187.131,
+            4.863
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -54.0
+    },
+    {
+        "idx": "C119AS318440",
+        "link_id_list": [
+            "A219AS319574",
+            "A219AS319573",
+            "A219AS319572",
+            "A219AS319571",
+            "A219AS318041"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -33.34,
+            -13.381,
+            5.617
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 40.0
+    },
+    {
+        "idx": "C119AS318441",
+        "link_id_list": [
+            "A219AS319574",
+            "A219AS319573",
+            "A219AS319572",
+            "A219AS319571",
+            "A219AS318041"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -35.59,
+            -10.7,
+            5.617
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 40.0
+    },
+    {
+        "idx": "C119AS318442",
+        "link_id_list": [
+            "A219AS319586",
+            "A219AS319587",
+            "A219AS319588"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -342.585,
+            -204.029,
+            4.897
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 32.0
+    },
+    {
+        "idx": "C119AS318443",
+        "link_id_list": [
+            "A219AS319586",
+            "A219AS319587",
+            "A219AS319588"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -344.439,
+            -201.06,
+            4.897
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 32.0
+    },
+    {
+        "idx": "C119AS318444",
+        "link_id_list": [
+            "A219AS319413"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -522.728,
+            -319.821,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 40.0
+    },
+    {
+        "idx": "C119AS318445",
+        "link_id_list": [
+            "A219AS319413"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -524.67,
+            -317.51,
+            6.273
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 40.0
+    },
+    {
+        "idx": "C119AS318448",
+        "link_id_list": [
+            "A219AS319599"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -27.533,
+            -547.206,
+            4.507
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 60.0
+    },
+    {
+        "idx": "C119AS318449",
+        "link_id_list": [
+            "A219AS319599"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -30.564,
+            -545.456,
+            4.507
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": 60.0
+    },
+    {
+        "idx": "C119AS318452",
+        "link_id_list": [
+            "A219AS319600"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            -19.958,
+            -544.145,
+            4.431
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -129.0
+    },
+    {
+        "idx": "C119AS318454",
+        "link_id_list": [
+            "A219AS319660",
+            "A219AS319661"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1002.486,
+            -576.664,
+            3.789
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "SN000515",
+        "link_id_list": [
+            "A219AS318813",
+            "A219AS318815"
+        ],
+        "sub_type": [
+            "yellow",
+            "yellow",
+            "yellow"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            915.1219,
+            -1045.603,
+            31.51864
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -159.99999000000003
+    },
+    {
+        "idx": "SN001549",
+        "link_id_list": [
+            "A219AS318813",
+            "A219AS318815"
+        ],
+        "sub_type": [
+            "yellow",
+            "yellow",
+            "yellow"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            916.02,
+            -1048.08,
+            31.51864
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -159.99999000000003
+    },
+    {
+        "idx": "SN000513",
+        "link_id_list": [
+            "A219AS319467",
+            "A219AS319468",
+            "A219AS319469",
+            "A219AS319470",
+            "A219AS319471",
+            "A219AS319472"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            964.273,
+            -1782.67,
+            8.87
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "SN001028",
+        "link_id_list": [
+            "A219AS319467",
+            "A219AS319468",
+            "A219AS319469",
+            "A219AS319470",
+            "A219AS319471",
+            "A219AS319472"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            967.068,
+            -1784.776,
+            8.87
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -127.0
+    },
+    {
+        "idx": "SN001544",
+        "link_id_list": [
+            "A219AS319466",
+            "A219AS319465",
+            "A219AS319464",
+            "A219AS319463",
+            "A219AS319462",
+            "A219AS318545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            968.932,
+            -1741.213,
+            8.866
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 53.0
+    },
+    {
+        "idx": "SN002061",
+        "link_id_list": [
+            "A219AS319466",
+            "A219AS319465",
+            "A219AS319464",
+            "A219AS319463",
+            "A219AS319462",
+            "A219AS318545"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            966.136,
+            -1739.107,
+            8.866
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 53.0
+    },
+    {
+        "idx": "SN003616",
+        "link_id_list": [
+            "A219AS318475",
+            "A219AS319452",
+            "A219AS319453",
+            "A219AS319454",
+            "A219AS319455",
+            "A219AS319456"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            946.642,
+            -1764.191,
+            8.841
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 137.0
+    },
+    {
+        "idx": "SN004135",
+        "link_id_list": [
+            "A219AS318475",
+            "A219AS319452",
+            "A219AS319453",
+            "A219AS319454",
+            "A219AS319455",
+            "A219AS319456"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            949.029,
+            -1761.631,
+            8.841
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 137.0
+    },
+    {
+        "idx": "SN004655",
+        "link_id_list": [
+            "A219AS319458",
+            "A219AS319457",
+            "A219AS319459",
+            "A219AS319460",
+            "A219AS319461"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            984.866,
+            -1764.399,
+            8.736
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "SN005176",
+        "link_id_list": [
+            "A219AS319458",
+            "A219AS319457",
+            "A219AS319459",
+            "A219AS319460",
+            "A219AS319461"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            987.069,
+            -1761.679,
+            8.736
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "SN005698",
+        "link_id_list": [
+            "A219AS319458",
+            "A219AS319457",
+            "A219AS319459",
+            "A219AS319460",
+            "A219AS319461"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            958.137,
+            -1741.839,
+            8.866
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": -39.0
+    },
+    {
+        "idx": "SN006221",
+        "link_id_list": [
+            "A219AS318475",
+            "A219AS319452",
+            "A219AS319453",
+            "A219AS319454",
+            "A219AS319455",
+            "A219AS319456"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            975.436,
+            -1782.365,
+            8.87
+        ],
+        "length": 0.4601131081581116,
+        "height": 0.3550000637769699,
+        "width": 1.4199999570846558,
+        "heading": 137.0
+    },
+    {
+        "idx": "SN000000",
+        "link_id_list": [
+            "A219AS318841",
+            "A219AS319714",
+            "A219AS319715",
+            "A219AS319716"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1100.158,
+            -861.7261,
+            18.28
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    },
+    {
+        "idx": "SN000001",
+        "link_id_list": [
+            "A219AS318841",
+            "A219AS319714",
+            "A219AS319715",
+            "A219AS319716"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            1102.115,
+            -863.4391,
+            18.28
+        ],
+        "length": 0.4601129740476608,
+        "height": 0.3550000637769699,
+        "width": 1.0649999380111694,
+        "heading": -130.0
+    }
+]

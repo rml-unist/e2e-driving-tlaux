@@ -1,0 +1,1159 @@
+[
+    {
+        "idx": "C120AA062000",
+        "link_id_list": [
+            "A220AA062103",
+            "A220AA062117",
+            "A220AA062118"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3727.77,
+            -8780.46,
+            55.74
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": -151.25
+    },
+    {
+        "idx": "C120AA062001",
+        "link_id_list": [
+            "A220AA062103",
+            "A220AA062117",
+            "A220AA062118"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3729.12,
+            -8782.93,
+            55.74
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": -151.25
+    },
+    {
+        "idx": "C120AA062002",
+        "link_id_list": [
+            "A220AA062767",
+            "A220AA062102",
+            "A220AA062116",
+            "A220AA062105",
+            "A220AA062106",
+            "A220AA062107",
+            "A220AA062108"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3713.809,
+            -8768.27,
+            56.019
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -60.218999999999994
+    },
+    {
+        "idx": "C120AA062003",
+        "link_id_list": [
+            "A220AA062767",
+            "A220AA062102",
+            "A220AA062116",
+            "A220AA062105",
+            "A220AA062106",
+            "A220AA062107",
+            "A220AA062108"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3716.61,
+            -8766.67,
+            56.019
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -60.218999999999994
+    },
+    {
+        "idx": "C120AA062004",
+        "link_id_list": [
+            "A220AA062114",
+            "A220AA062115",
+            "A220AA062113",
+            "A220AA062112",
+            "A220AA062111",
+            "A220AA062110",
+            "A220AA062109"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3705.027,
+            -8815.037,
+            55.372
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 117.952
+    },
+    {
+        "idx": "C120AA062005",
+        "link_id_list": [
+            "A220AA062114",
+            "A220AA062115",
+            "A220AA062113",
+            "A220AA062112",
+            "A220AA062111",
+            "A220AA062110",
+            "A220AA062109"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3702.555,
+            -8816.35,
+            55.372
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 117.952
+    },
+    {
+        "idx": "C120AA062006",
+        "link_id_list": [
+            "A220AA062122",
+            "A220AA062121",
+            "A220AA062125",
+            "A220AA062126",
+            "A220AA062124",
+            "A220AA062768"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3481.543,
+            -8372.449,
+            61.693
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -61.39999999999998
+    },
+    {
+        "idx": "C120AA062007",
+        "link_id_list": [
+            "A220AA062122",
+            "A220AA062121",
+            "A220AA062125",
+            "A220AA062126",
+            "A220AA062124",
+            "A220AA062768"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3483.967,
+            -8371.128,
+            61.693
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -61.39999999999998
+    },
+    {
+        "idx": "C120AA062010",
+        "link_id_list": [
+            "A220AA062136",
+            "A220AA062137",
+            "A220AA062138",
+            "A220AA062134"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3485.46,
+            -8362.84,
+            61.693
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -151.39999
+    },
+    {
+        "idx": "C120AA062011",
+        "link_id_list": [
+            "A220AA062136",
+            "A220AA062137",
+            "A220AA062138",
+            "A220AA062134"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3487.17,
+            -8365.97,
+            61.693
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -151.39999
+    },
+    {
+        "idx": "C120AA062012",
+        "link_id_list": [
+            "A220AA062135",
+            "A220AA062129",
+            "A220AA062130",
+            "A220AA062131",
+            "A220AA062132",
+            "A220AA062133"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3466.89,
+            -8394.77,
+            61.38
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 113.52999999999997
+    },
+    {
+        "idx": "C120AA062013",
+        "link_id_list": [
+            "A220AA062135",
+            "A220AA062129",
+            "A220AA062130",
+            "A220AA062131",
+            "A220AA062132",
+            "A220AA062133"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3463.09,
+            -8396.42,
+            61.38
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 113.52999999999997
+    },
+    {
+        "idx": "C120AA062014",
+        "link_id_list": [
+            "A220AA062122",
+            "A220AA062121",
+            "A220AA062125",
+            "A220AA062126",
+            "A220AA062124",
+            "A220AA062768"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3472.213,
+            -8340.712,
+            62.114
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -68.10000000000002
+    },
+    {
+        "idx": "C120AA062019",
+        "link_id_list": [
+            "A220AA062123",
+            "A220AA062127"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3431.42,
+            -8372.9,
+            61.859
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 32.900000000000006
+    },
+    {
+        "idx": "C120AA062020",
+        "link_id_list": [
+            "A220AA062123",
+            "A220AA062127"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            3429.23,
+            -8369.506,
+            61.859
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 32.900000000000006
+    },
+    {
+        "idx": "C120AA062023",
+        "link_id_list": [
+            "A220AA062101",
+            "A220AA062023",
+            "A220AA062139"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            317.01,
+            -379.57,
+            4.808
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -87.27640000000002
+    },
+    {
+        "idx": "C120AA062024",
+        "link_id_list": [
+            "A220AA062101",
+            "A220AA062023",
+            "A220AA062139"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            320.5052,
+            -379.4035,
+            4.808
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -87.27640000000002
+    },
+    {
+        "idx": "C120AA062030",
+        "link_id_list": [
+            "A220AA062101",
+            "A220AA062023",
+            "A220AA062139"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            314.7,
+            -337.01,
+            5.77
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -87.495
+    },
+    {
+        "idx": "C120AA062032",
+        "link_id_list": [
+            "A220AA062148",
+            "A220AA062142",
+            "A220AA062141"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            320.72,
+            -342.73,
+            5.77
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 2.5049999999999955
+    },
+    {
+        "idx": "C120AA062033",
+        "link_id_list": [
+            "A220AA062148",
+            "A220AA062142",
+            "A220AA062141"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            320.6,
+            -339.89,
+            5.77
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 2.5049999999999955
+    },
+    {
+        "idx": "C120AA062034",
+        "link_id_list": [
+            "A220AA062708",
+            "A220AA062143",
+            "A220AA062024",
+            "A220AA062140",
+            "A220AA062707"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            300.879,
+            -386.18,
+            5.364
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 93.11000000000001
+    },
+    {
+        "idx": "C120AA062035",
+        "link_id_list": [
+            "A220AA062146",
+            "A220AA062147",
+            "A220AA062145"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            289.73,
+            -386.56,
+            5.03
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -174.59999
+    },
+    {
+        "idx": "C120AA062036",
+        "link_id_list": [
+            "A220AA062146",
+            "A220AA062147",
+            "A220AA062145"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            290.03,
+            -389.7,
+            5.03
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -174.59999
+    },
+    {
+        "idx": "C120AA062039",
+        "link_id_list": [
+            "A220AA062708",
+            "A220AA062143",
+            "A220AA062024",
+            "A220AA062140",
+            "A220AA062707"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            292.1,
+            -326.41,
+            5.53
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 93.11000000000001
+    },
+    {
+        "idx": "C120AA062040",
+        "link_id_list": [
+            "A220AA062708",
+            "A220AA062143",
+            "A220AA062024",
+            "A220AA062140",
+            "A220AA062707"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            288.605,
+            -326.6,
+            5.53
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 93.11000000000001
+    },
+    {
+        "idx": "C120AA062042",
+        "link_id_list": [
+            "A220AA062155",
+            "A220AA062152",
+            "A220AA062153",
+            "A220AA062154"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            302.04,
+            -170.07,
+            7.43
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -86.57400000000001
+    },
+    {
+        "idx": "C120AA062043",
+        "link_id_list": [
+            "A220AA062155",
+            "A220AA062152",
+            "A220AA062153",
+            "A220AA062154"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            305.533,
+            -169.861,
+            7.43
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -86.57400000000001
+    },
+    {
+        "idx": "C120AA062044",
+        "link_id_list": [
+            "A220AA062155",
+            "A220AA062152",
+            "A220AA062153",
+            "A220AA062154"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            302.401,
+            -146.107,
+            7.362
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -86.57400000000001
+    },
+    {
+        "idx": "C120AA062045",
+        "link_id_list": [
+            "A220AA062150",
+            "A220AA062149",
+            "A220AA062012",
+            "A220AA062011"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            281.03,
+            -176.359,
+            7.204
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 93.05799999999999
+    },
+    {
+        "idx": "C120AA062046",
+        "link_id_list": [
+            "A220AA062150",
+            "A220AA062149",
+            "A220AA062012",
+            "A220AA062011"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            282.05,
+            -146.06,
+            7.013
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 93.05799999999999
+    },
+    {
+        "idx": "C120AA062047",
+        "link_id_list": [
+            "A220AA062150",
+            "A220AA062149",
+            "A220AA062012",
+            "A220AA062011"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            278.04,
+            -146.27,
+            7.013
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 93.05799999999999
+    },
+    {
+        "idx": "C120AA062051",
+        "link_id_list": [
+            "A220AA062150",
+            "A220AA062149",
+            "A220AA062012",
+            "A220AA062011"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            283.63,
+            -176.22,
+            7.204
+        ],
+        "length": 0,
+        "height": 0.73,
+        "width": 0.9,
+        "heading": 93.05799999999999
+    },
+    {
+        "idx": "C120AA062052",
+        "link_id_list": [
+            "A220AA062151"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            276.55,
+            -170.54,
+            7.204
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -176.94200999999998
+    },
+    {
+        "idx": "C120AA062053",
+        "link_id_list": [
+            "A220AA062151"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            276.7,
+            -173.41,
+            7.204
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -176.94200999999998
+    },
+    {
+        "idx": "C120AA062055",
+        "link_id_list": [
+            "A220AA062171",
+            "A220AA062172",
+            "A220AA062006",
+            "A220AA062158"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            278.912,
+            44.0,
+            6.764
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -72.80000000000001
+    },
+    {
+        "idx": "C120AA062056",
+        "link_id_list": [
+            "A220AA062171",
+            "A220AA062172",
+            "A220AA062006",
+            "A220AA062158"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            282.203,
+            45.019,
+            6.764
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -72.80000000000001
+    },
+    {
+        "idx": "C120AA062059",
+        "link_id_list": [
+            "A220AA062171",
+            "A220AA062172",
+            "A220AA062006",
+            "A220AA062158"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            274.49,
+            73.25,
+            7.05
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -76.62200000000001
+    },
+    {
+        "idx": "C120AA062061",
+        "link_id_list": [
+            "A220AA062159",
+            "A220AA062005",
+            "A220AA062156",
+            "A220AA062157",
+            "A220AA062168"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            262.5,
+            78.42,
+            6.52
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 107.19999999999999
+    },
+    {
+        "idx": "C120AA062062",
+        "link_id_list": [
+            "A220AA062159",
+            "A220AA062005",
+            "A220AA062156",
+            "A220AA062157",
+            "A220AA062168"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            258.63,
+            77.22,
+            6.52
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 107.19999999999999
+    },
+    {
+        "idx": "C120AA062065",
+        "link_id_list": [
+            "A220AA062159",
+            "A220AA062005",
+            "A220AA062156",
+            "A220AA062157",
+            "A220AA062168"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            268.71,
+            37.09,
+            6.942
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 107.19999999999999
+    },
+    {
+        "idx": "C120AA062066",
+        "link_id_list": [
+            "A220AA062160",
+            "A220AA062161",
+            "A219AS303273",
+            "A219AS303274",
+            "A219AS300973"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            260.0,
+            42.952,
+            6.905
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -162.79996
+    },
+    {
+        "idx": "C120AA062067",
+        "link_id_list": [
+            "A220AA062160",
+            "A220AA062161",
+            "A219AS303273",
+            "A219AS303274",
+            "A219AS300973"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            261.01,
+            39.67,
+            6.905
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -162.79996
+    },
+    {
+        "idx": "C120AA062068",
+        "link_id_list": [
+            "A220AA062160",
+            "A220AA062161",
+            "A219AS303273",
+            "A219AS303274",
+            "A219AS300973"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            285.23,
+            50.94,
+            6.743
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": -162.79996
+    },
+    {
+        "idx": "C120AA062069",
+        "link_id_list": [
+            "LN000018",
+            "A219AS303272",
+            "A220AA062163",
+            "A219AS303271",
+            "A220AA062162"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            281.03,
+            66.78,
+            7.153
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 13.377999999999986
+    },
+    {
+        "idx": "C120AA062070",
+        "link_id_list": [
+            "LN000018",
+            "A219AS303272",
+            "A220AA062163",
+            "A219AS303271",
+            "A220AA062162"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            280.05,
+            70.89,
+            7.153
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 13.377999999999986
+    },
+    {
+        "idx": "C120AA062071",
+        "link_id_list": [
+            "LN000018",
+            "A219AS303272",
+            "A220AA062163",
+            "A219AS303271",
+            "A220AA062162"
+        ],
+        "sub_type": [
+            "red",
+            "yellow",
+            "left",
+            "straight"
+        ],
+        "orientation": "horizontal",
+        "point": [
+            247.78,
+            54.87,
+            6.52
+        ],
+        "length": 0,
+        "height": 0.6,
+        "width": 0.6,
+        "heading": 14.400000000000006
+    }
+]
