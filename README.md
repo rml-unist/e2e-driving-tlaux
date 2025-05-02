@@ -2,7 +2,6 @@
 
 We propose an E2E model with a Traffic Light Classification Auxiliary Module (TLCAM) that emphasizes traffic signals using a fornt-view camera image.
 By incorporating this auxiliary task, the model learns to focus on traffic lights in its representations, resulting in more accurate control decisions influenced by traffic light states.
-
 ---
 ## How to run
 1. Clone this repository.
@@ -26,7 +25,7 @@ python3 train_2.py
 ```bash
 python3 train_3.py
 ```
-**Note that** each process has completed before starting the next one.
+**Note that** each process has to completed before starting the next one.
 
 ---
 
